@@ -1,4 +1,4 @@
-# Variance-Delay-Fuzzy-Approximate-Entropy
+# Variance Delay Fuzzy Approximate Entropy
 MATLAB implementation of variance delay fuzzy approximate entropy for heart rate variability (HRV) complex analysis.
 
 ## Reference
